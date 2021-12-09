@@ -1,4 +1,4 @@
-# Tags: 6.0-alpine-arm64v8
-FROM dotnet/nightly/runtime:6.0-alpine-arm64v8
-FROM dotnet/nightly/runtime:6.0-alpine3.15-arm64v8
-FROM dotnet/nightly/runtime:6.0.0-alpine3.15-arm64v8
+# Tags: 6.0-alpine-arm64v8, 6.0-alpine3.15-arm64v8, 6.0.0-alpine3.15-arm64v8
+FROM mcr.microsoft.com/dotnet/nightly/runtime:6.0-alpine-arm64v8
+FROM mcr.microsoft.com/dotnet/nightly/runtime:6.0-alpine3.15-arm64v8
+FROM mcr.microsoft.com/dotnet/nightly/runtime:6.0.0-alpine3.15-arm64v8

@@ -1,3 +1,3 @@
-# Tags: 3.1-alpine3.14
-FROM dotnet/nightly/runtime:3.1-alpine3.14
-FROM dotnet/nightly/runtime:3.1.21-alpine3.14
+# Tags: 3.1-alpine3.14, 3.1.21-alpine3.14
+FROM mcr.microsoft.com/dotnet/nightly/runtime:3.1-alpine3.14
+FROM mcr.microsoft.com/dotnet/nightly/runtime:3.1.21-alpine3.14
