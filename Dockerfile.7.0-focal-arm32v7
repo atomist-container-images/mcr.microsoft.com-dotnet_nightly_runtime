@@ -1,0 +1,3 @@
+# Tags: 7.0-focal-arm32v7
+FROM dotnet/nightly/runtime:7.0-focal-arm32v7
+FROM dotnet/nightly/runtime:7.0.0-alpha.1-focal-arm32v7

@@ -1,0 +1,3 @@
+# Tags: 7.0-cbl-mariner1.0-amd64
+FROM dotnet/nightly/runtime:7.0-cbl-mariner1.0-amd64
+FROM dotnet/nightly/runtime:7.0.0-alpha.1-cbl-mariner1.0-amd64
